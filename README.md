@@ -7,14 +7,13 @@ Java Swing Application:
 The Java Swing application is a desktop-based program.
 It offers a graphical user interface (GUI) for checking prime numbers.
 Users can input a number and receive instant feedback on its primality.
-Users can enter an integer in the input field.
+Users can enter an number in the input field.
 Upon clicking the "Check" button, the application checks if the input number is prime or not.
 The result (prime or not prime) is displayed in the result label.
 (PrimeNumberChecker.java file)
 
 Web Application: 
 The web application is accessible via a web browser.
-Users can visit a webpage, input a number, and receive a response regarding its primality.
 Users can input a number on the web page.
 Upon submission, the web application checks if the input number is prime and displays the result on the same page.
 (index.html, style.css and script.js file)
